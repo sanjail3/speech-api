@@ -5,3 +5,4 @@ nltk
 flask-cors
 transformers
 sentencepiece
+soundfile
